@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>Recursos</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>433AE9</corbanda>
+        <cornavega>433AE9</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Las partes del computador</titulo>
+        <autor>Jainer Yepes</autor>
+        <logo>Logo.jpeg</logo>
+        <imaxefondo posx="-264" posy="-116" trans="100">Fondo.png</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe auto="1"  posx="0" posy="1">1.gif</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">2.gif</imaxe>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">3.gif</imaxe>
+        </paxina>
+        <paxina id="4" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">4.gif</imaxe>
+        </paxina>
+        <paxina id="5" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">5.gif</imaxe>
+        </paxina>
+        <paxina id="6" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">6.gif</imaxe>
+        </paxina>
+        <paxina id="7" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">7.gif</imaxe>
+        </paxina>
+        <paxina id="8" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">8.gif</imaxe>
+        </paxina>
+        <paxina id="9" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">9.gif</imaxe>
+        </paxina>
+        <paxina id="10" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">10.gif</imaxe>
+        </paxina>
+        <paxina id="11" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">11.gif</imaxe>
+        </paxina>
+        <paxina id="12" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">12.gif</imaxe>
+        </paxina>
+        <paxina id="13" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">13.gif</imaxe>
+        </paxina>
+        <paxina id="14" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">14.gif</imaxe>
+        </paxina>
+        <paxina id="15" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">15.gif</imaxe>
+        </paxina>
+        <paxina id="16" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">16.gif</imaxe>
+        </paxina>
+        <paxina id="17" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">17.gif</imaxe>
+        </paxina>
+        <paxina id="18" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">18.gif</imaxe>
+        </paxina>
+        <paxina id="19" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">19.gif</imaxe>
+        </paxina>
+        <paxina id="20" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">20.gif</imaxe>
+        </paxina>
+        <paxina id="21" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">21.gif</imaxe>
+        </paxina>
+        <paxina id="22" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">23.gif</imaxe>
+        </paxina>
+        <paxina id="23" >
+              <tipo>4</tipo>
+              <cabeceira>Encuentra las palabras de la lista en la siguiente sopa de letras</cabeceira>
+              <modo>1</modo>
+              <sopa enun="">TECLADO</sopa>
+              <sopa enun="">MOUSE</sopa>
+              <sopa enun="">ALTAVOCES</sopa>
+              <sopa enun="">MICROFONO</sopa>
+              <sopa enun="">CAMARA</sopa>
+              <sopa enun="">DATOS</sopa>
+              <sopa enun="">COMPUTADOR</sopa>
+              <sopa enun="">TECNOLOGIA</sopa>
+              <enunciado>1</enunciado>
+              <colorea>1</colorea>
+              <cadro>1</cadro>
+              <fondo>ABCDEFGHIJKLMNÑOPQRSTUVWXYZ</fondo>
+        </paxina>
+        <paxina id="24" >
+              <tipo>3</tipo>
+              <cabeceira>Completa el siguiente rompecabezas sobre las partes del computador</cabeceira>
+              <imaxe>Logo.jpeg</imaxe>
+              <filas>3</filas>
+              <columnas>3</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="25" >
+              <tipo>17</tipo>
+              <cabeceira>Encuentra las parejas de cada una de las siguientes imágenes antes de que se agote el tiempo</cabeceira>
+              <parellas>Almacenamiento.jpeg</parellas>
+              <parellas>Monitor.jpeg</parellas>
+              <parellas>Mouse.jpeg</parellas>
+              <parellas>Altavoces.jpeg</parellas>
+              <parellas>CPU.jpeg</parellas>
+              <parellas>Teclado.jpeg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+              <tempo>60</tempo>
+        </paxina>
+        <paxina id="26" >
+              <tipo>36</tipo>
+              <cabeceira>Repite el siguiente patrón, ten en cuenta que forma la palabra PC</cabeceira>
+              <forma>0</forma>
+              <modo>1</modo>
+              <etiqueta>00000000</etiqueta>
+              <etiqueta>88800888</etiqueta>
+              <etiqueta>80080800</etiqueta>
+              <etiqueta>80080800</etiqueta>
+              <etiqueta>88800800</etiqueta>
+              <etiqueta>80000800</etiqueta>
+              <etiqueta>80000888</etiqueta>
+        </paxina>
+        <paxina id="27" >
+              <tipo>51</tipo>
+              <cabeceira>Memoriza las casillas en las que se encuentran la imagen que observas para que luego puedas seleccionarlas</cabeceira>
+              <valor>10</valor>
+              <peza imaxe="Mouse.jpeg">1</peza>
+              <peza imaxe="Teclado.jpeg">2</peza>
+              <modo>1</modo>
+        </paxina>
+        <paxina id="28" >
+              <tipo>24</tipo>
+              <cabeceira>Escoge las partes de la computadora según la imagen.</cabeceira>
+              <etiqueta imaxe="Computador.jpeg" texto="Computador">1</etiqueta>
+              <etiqueta imaxe="Altavoces.jpeg" texto="Disco Duro">0</etiqueta>
+              <etiqueta imaxe="Teclado.jpeg" texto="Placa Base">0</etiqueta>
+              <etiqueta imaxe="Microfono.jpeg" texto="Micrófono ">1</etiqueta>
+              <etiqueta imaxe="Mouse.jpeg" texto="Mouse">1</etiqueta>
+              <etiqueta imaxe="Placa.jpeg" texto="Teclado">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="29" >
+              <tipo>18</tipo>
+              <cabeceira>Lee el siguiente párrafo y completa los espacios en blanco con las palabras correspondientes.</cabeceira>
+              <modo>1</modo>
+              <completa ant="Un computador está compuesto por varias partes esenciales. La unidad central de procesamiento o " post="es el &quot;cerebro&quot; del computador, ya que se encarga de ejecutar las instrucciones y procesar la información.">cpu</completa>
+              <completa ant="La " post="almacena temporalmente la información y permite que el sistema funcione más rápidamente mientras se están ejecutando tareas. ">memoria ram</completa>
+              <completa ant="El" post="es donde se guardan todos los datos y programas de forma permanente.">disco duro</completa>
+              <completa ant="También contamos con dispositivos de entrada, como el" post="que permite al usuario introducir información,">teclado</completa>
+              <completa ant="y el" post="que facilita la interacción con el sistema. ">mouse</completa>
+              <completa ant="Finalmente, los dispositivos de salida, como el " post="muestran la información visualmente, permitiendo que el usuario observe los resultados de sus acciones.">monitor</completa>
+        </paxina>
+        <paxina id="30" >
+              <tipo>11</tipo>
+              <cabeceira>Relaciona las imágenes con su respectiva función.</cabeceira>
+              <modo>3</modo>
+              <cousa nome="Soy un dispositivo de entrada que te permite capturar videos e imágenes en tiempo real, para que puedas verte y hablar con otras personas a través del computador">Camara.jpeg</cousa>
+              <cousa nome="Soy un dispositivo de salida que emite los sonidos de música, videos y otros archivos de audio, para que los escuches claramente.">Altavoces.jpeg</cousa>
+              <cousa nome="Soy un dispositivo que captura tu voz y otros sonidos, permitiendo que te comuniques en llamadas o grabes audio en el computador. ">Microfono.jpeg</cousa>
+        </paxina>
+        <paxina id="31" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">24.gif</imaxe>
+        </paxina>
+    </libro>
+</lim>
